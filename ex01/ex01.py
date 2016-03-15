@@ -1,5 +1,1 @@
-print "hello world" \
-      "Hello world" \
-      ""
-print "What it is?" \
-      ""
+print "hello world"
