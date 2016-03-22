@@ -1,5 +1,6 @@
+#-*-coding:cp949
+# ġŲ
 print "I will now count my chickens"
-# -*-
 print  "hens", 25 + 30 / 6
 print "roosters", 100 - 25 * 3 % 4
 
