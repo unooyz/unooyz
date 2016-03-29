@@ -1,5 +1,5 @@
 my_name = 'Jung kyoung mook'
-my_age = 23 # not a lie, but i dnt't believe it lol
+my_age = 23 # not a lie, but i dnt't believe it lol, // if 23 has "" (look like "23") this is a word (don't have '' , the 23 is a number)
 my_height = 182.5 #cm
 my_weight = 75 #kg
 my_eyes = 'black'
