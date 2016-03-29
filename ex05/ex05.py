@@ -1,6 +1,6 @@
 my_name = 'Jung kyoung mook'
 my_age = 23 # not a lie, but i dnt't believe it lol
-my_height = 182 #cm
+my_height = 182.5 #cm
 my_weight = 75 #kg
 my_eyes = 'black'
 my_teeth = 'white'
