@@ -10,7 +10,7 @@ print "Let's talk about %s." % my_name
 print "He's %d centimeter tall" % my_height
 print "He's %d kilogram heavy." % my_weight
 print "Actually tha's not too heavy."
-print "He;s got %s eyes and %s hair." % (my_eyes, my_hair)
+print "He's got %s eyes and %s hair." % (my_eyes, my_hair)
 print "His teeth are uaually %s depending on the coffee." % my_teeth
 
 # this live is tricky, try to get it exactly right
