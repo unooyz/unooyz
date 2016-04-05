@@ -7,6 +7,6 @@ print formatter % (formatter, formatter, formatter, formatter)
 print formatter % (
     "I had this thing.",
     "That you could type up right.",
-    "But it didn;t sing.",
+    "But it didn't sing.",    # This sentance has ' (diin't) So THis sentance must have ""(double quote)
     "So I said goodnight"
 )
