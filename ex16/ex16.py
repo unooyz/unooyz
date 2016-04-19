@@ -1,6 +1,6 @@
 #http://learnpythonthehardway.org/book/ex16.html
 
-frome sys import argv
+from sys import argv
 
 script, filename = argv
 
