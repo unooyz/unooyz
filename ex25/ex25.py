@@ -1,8 +1,10 @@
+
 def break_words(stuff):
-    words = stuff.split('')
+
+    words = stuff.split(' ')
     return words
 
-def sort_word(words):
+def sort_words(words):
     return sorted(words)
 
 def print_first_word(words):
